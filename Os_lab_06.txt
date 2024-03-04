@@ -1,0 +1,12 @@
+*Lab Assignments for 4th March*
+1. Write a shell script which displays the message “welcome” and prints the date when you log in to your system.
+2. (How to read a File line by line in a Shell Script?) Write a shell script which reports names and sizes of all files in a directory (directory
+should be supplied as an argument to the shell script) whose size exceeds 2000 bytes. The filenames should be printed in decreasing order of their sizes. The total number of such files should also be reported.
+3. Write a shell command that accepts a filename as argument and displays the last modification time, if the file exists and a suitable message if it does not.
+4. Write a shell script that accepts two directories namely OS1 and OS2 as arguments and deletes those files in OS2 which are identical to their names in OS1.
+5. Write a shell script to list the names of files under the current directory started with vowels.
+6. Write a shell script to drop the lines which are matched with a given word.
+7. Write a shell script that shows the names of all the non-directory files in the current directory and calculates the sum of the size of them.
+8. Write a shell script to find the total number of words, characters, lines in the given file (name of the file given in command line argument).
+
+Total Marks: 10
